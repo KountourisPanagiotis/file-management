@@ -1,0 +1,15 @@
+C:\Users\anele\source\repos\CodingFactory3\FileManagement\obj\Debug\net6.0\FileManagement.csproj.AssemblyReference.cache
+C:\Users\anele\source\repos\CodingFactory3\FileManagement\obj\Debug\net6.0\FileManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anele\source\repos\CodingFactory3\FileManagement\obj\Debug\net6.0\FileManagement.AssemblyInfoInputs.cache
+C:\Users\anele\source\repos\CodingFactory3\FileManagement\obj\Debug\net6.0\FileManagement.AssemblyInfo.cs
+C:\Users\anele\source\repos\CodingFactory3\FileManagement\obj\Debug\net6.0\FileManagement.csproj.CoreCompileInputs.cache
+C:\Users\anele\source\repos\CodingFactory3\FileManagement\bin\Debug\net6.0\FileManagement.exe
+C:\Users\anele\source\repos\CodingFactory3\FileManagement\bin\Debug\net6.0\FileManagement.deps.json
+C:\Users\anele\source\repos\CodingFactory3\FileManagement\bin\Debug\net6.0\FileManagement.runtimeconfig.json
+C:\Users\anele\source\repos\CodingFactory3\FileManagement\bin\Debug\net6.0\FileManagement.dll
+C:\Users\anele\source\repos\CodingFactory3\FileManagement\bin\Debug\net6.0\FileManagement.pdb
+C:\Users\anele\source\repos\CodingFactory3\FileManagement\obj\Debug\net6.0\FileManagement.dll
+C:\Users\anele\source\repos\CodingFactory3\FileManagement\obj\Debug\net6.0\refint\FileManagement.dll
+C:\Users\anele\source\repos\CodingFactory3\FileManagement\obj\Debug\net6.0\FileManagement.pdb
+C:\Users\anele\source\repos\CodingFactory3\FileManagement\obj\Debug\net6.0\FileManagement.genruntimeconfig.cache
+C:\Users\anele\source\repos\CodingFactory3\FileManagement\obj\Debug\net6.0\ref\FileManagement.dll
